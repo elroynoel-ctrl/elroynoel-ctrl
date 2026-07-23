@@ -50,8 +50,9 @@ These repositories document enterprise networking labs that I have built, verifi
 
 | Project | Status |
 |---------|--------|
-| Enterprise OSPF | 🚧 Coming Soon |
-| Enterprise EIGRP | 🚧 Coming Soon |
+| Enterprise Campus Network Foundation | ✅ Complete |
+| Enterprise Multi-Branch OSPF Network | ✅ Complete |
+| Enterprise EIGRP Multi-Site Network | ✅ Complete |
 | eBGP Transit AS | 🚧 Coming Soon |
 | eBGP Multihop | 🚧 Coming Soon |
 | iBGP Full Mesh | 🚧 Coming Soon |
