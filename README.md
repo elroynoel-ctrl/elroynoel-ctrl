@@ -62,6 +62,39 @@ These repositories document enterprise networking labs that I have built, verifi
 
 ---
 
+# 🖥️ Physical Cisco Home Lab
+
+In addition to my Packet Tracer projects, I maintain a physical Cisco home lab where I build, validate, and troubleshoot enterprise networking technologies using real Cisco hardware. This environment allows me to gain hands-on experience with Cisco IOS, routing protocols, and network troubleshooting while reinforcing the concepts documented throughout Project ELEVATE.
+
+## Lab Equipment
+
+- Cisco ISR 3825 Router
+- Cisco ISR 2911 Router
+- Cisco 1841 Router
+- Cisco Catalyst 2960-X Switch
+- Cisco Catalyst 2960 Switch
+- Windows & macOS Workstations
+- Console Connectivity (USB-to-Serial)
+- Enterprise Ethernet Cabling
+
+## Technologies Practiced
+
+- OSPF
+- EIGRP
+- BGP
+- VLANs
+- Router-on-a-Stick
+- NAT/PAT
+- ACLs
+- DHCP
+- SSH
+- Network Troubleshooting
+- Enterprise Documentation
+
+> Every configuration, verification, and troubleshooting exercise performed in my home lab is documented using the same professional standards applied throughout my Project ELEVATE repositories.
+
+----
+ 
 ## 🎯 2026 Goals
 
 - Complete CCNP ENCOR studies
