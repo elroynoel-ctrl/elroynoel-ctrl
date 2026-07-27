@@ -18,25 +18,6 @@ I'm passionate about enterprise networking and building hands-on Cisco labs usin
 
 ---
 
-## 🏠 Home Lab
-
-### Routers
-- Cisco 3825
-- Cisco 2911
-- Cisco 1841
-
-### Switches
-- Cisco Catalyst 2960-X
-
-### Tools
-- GitHub
-- LinkedIn
-- Packet Tracer
-- GNS3
-- Wireshark
-
----
-
 ## 📜 Certifications
 
 - ✅ Cisco Certified Network Associate (CCNA)
