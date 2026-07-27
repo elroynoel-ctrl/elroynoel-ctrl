@@ -64,7 +64,7 @@ These repositories document enterprise networking labs that I have built, verifi
 
 # 🖥️ Enterprise Cisco Home Lab
 
-![Physical Cisco Home Lab](images/physical-home-lab.png)
+![Physical Cisco Home Lab](images/physical-home-lab1.png)
 
 ### Lab Purpose
 
